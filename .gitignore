@@ -1,2 +1,4 @@
-/launcher.spec
-*/__pycache__/*
+build/
+dist/
+launcher.spec
+__pycache__/
